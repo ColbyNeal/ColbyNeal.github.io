@@ -1,17 +1,17 @@
 [Back to Portfolio](./)
 
-Project 1 Title
+Windows Cybersecurity Compliance Check using Python
 ===============
 
--   **Class:** 
--   **Grade:** 
--   **Language(s):** 
+-   **Class:** CSCI 301 
+-   **Grade:** 100
+-   **Language(s):** Python
 -   **Source Code Repository:** [features/mastering-markdown](https://guides.github.com/features/mastering-markdown/)  
     (Please [email me](mailto:example@csustudent.net?subject=GitHub%20Access) to request access.)
 
 ## Project description
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+This project involved creating a Python script to automatically check five critical security compliance rules on a Windows system. These checks were selected from recognized cybersecurity standards such as the CIS Benchmarks and DoD STIGs. 
 
 ## How to compile and run the program
 
