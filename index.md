@@ -14,12 +14,12 @@ Programming Projects
 ---
 ### [Large Map | CSCI 315](project1)
 
-![Project 2 Thumbnail Name](images/dummy_thumbnail.jpg)
+![Project 2 Thumbnail Name](images/Map_get())
 
 ---
 ### [Final Project| CSCI 325](project1)
 
-![Project 3 Thumbnail Name](images/dummy_thumbnail.jpg)
+![Project 3 Thumbnail Name](images/Game_Menu)
 
 ---
 ### [Final Project | CSCI 332](project1)
