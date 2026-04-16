@@ -9,7 +9,6 @@ Programming Projects
 ---
 ### [Windows Cybersecurity Compliance Check using Python | CSCI 301](project1)
 
-![Project 1 Thumbnail Name](images/dummy_thumbnail.jpg)
 
 ---
 ### [Large Map | CSCI 315](project2)
