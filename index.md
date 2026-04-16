@@ -12,17 +12,17 @@ Programming Projects
 ![Project 1 Thumbnail Name](images/dummy_thumbnail.jpg)
 
 ---
-### [Large Map | CSCI 315](project1)
+### [Large Map | CSCI 315](project2)
 
 ![Project 2 Thumbnail Name](images/Map_get())
 
 ---
-### [Final Project| CSCI 325](project1)
+### [Final Project| CSCI 325](project3)
 
 ![Project 3 Thumbnail Name](images/dummy_thumbnail.jpg)
 
 ---
-### [Final Project | CSCI 332](project1)
+### [Final Project | CSCI 332](project4)
 
 ![Project 4 Thumbnail Name](images/img_002.jpg)
 
