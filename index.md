@@ -19,7 +19,7 @@ Programming Projects
 ---
 ### [Final Project| CSCI 325](project1)
 
-![Project 3 Thumbnail Name](images/Game_Menu)
+![Project 3 Thumbnail Name](images/dummy_thumbnail.jpg)
 
 ---
 ### [Final Project | CSCI 332](project1)
