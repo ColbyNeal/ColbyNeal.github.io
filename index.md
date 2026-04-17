@@ -30,15 +30,15 @@ Programming Projects
 Ethics Papers
 -------------
 
-### [Ethics of Artificial Intelligence](/pdf/sample_presentation.pdf)
+### [Responsibility in Automated Software Testing](/pdf/315_Ethics.pdf)
 
--   **Class:** CSCI-301 
+-   **Class:** CSCI-315 
 -   **Grade:** 100
 
-### [Responsibility in Automated Software Testing](/pdf/sample_presentation.pdf)
+### [Ethical challenges in Artificial Intelligence and Machine Learning](/pdf/332_Ethics.pdf)
 
--   **Class:** CSCI-315
--   **Grade:** 75
+-   **Class:** CSCI-332
+-   **Grade:** 100
 
 ---
 
