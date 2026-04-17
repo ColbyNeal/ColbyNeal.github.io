@@ -16,11 +16,6 @@ Programming Projects
 ![Project 2 Thumbnail Name](images/Map_get())
 
 ---
-### [Final Project| CSCI 325](project3)
-
-![Project 3 Thumbnail Name](images/dummy_thumbnail.jpg)
-
----
 ### [Final Project | CSCI 332](project4)
 
 ![Project 4 Thumbnail Name](images/img_002.jpg)
